@@ -63,43 +63,34 @@ Software Engineer with an MS in Computer Software Engineering from Northeastern 
 
 **Agentic AI System for Distributed NL-to-SQL**
 Two-agent gRPC system with FAISS schema retrieval and swappable LLM backends (OpenAI / Vertex AI)
-`Python` `gRPC` `FAISS` `LangChain` `OpenAI API` `HuggingFace` `Gradio`
 
 **Text-to-SQL with Fine-Tuned LLMs**
 Fine-tuned FLAN-T5 and LLaMA-2 on Spider benchmark with RAG pipeline; evaluated with Exact Match and BLEU
-`Python` `PyTorch` `FLAN-T5` `LLaMA-2` `FAISS` `LangChain` `Gradio`
 
 **RAG Document QA Pipeline**
 LangChain + FAISS + flan-t5-base; grounded answers from PDFs with measurable hallucination reduction
-`Python` `LangChain` `FAISS` `HuggingFace` `flan-t5-base` `PyTorch`
 
 ### AI / ML
 
 **Denoising Diffusion Model (MNIST)**
 Full DDPM from scratch with U-Net, 1000-step noise scheduler, conditional and unconditional generation
-`Python` `PyTorch` `U-Net` `MNIST` `AdamW`
 
 **CNN Architecture Ablation Study (CIFAR-10)**
 Controlled comparison of 5 CNN configs; 74.30% accuracy; isolated BatchNorm, Dropout, and depth effects
-`Python` `PyTorch` `CIFAR-10` `CNN` `BatchNorm` `Dropout`
 
 **Neural Network Classifier + RAG Hallucination Study**
 81% accuracy loan classifier with empirical side-by-side RAG hallucination comparison
-`Python` `PyTorch` `FAISS` `SentenceTransformers` `DistilGPT-2` `Scikit-learn`
 
 ### Full Stack
 
 **Farmer's Care AgriTech Platform**
 Web and Android platform serving 1,000+ rural farmers with AI crop prediction, CNN disease detection, and multilingual UI
-`Python` `PHP` `MySQL` `Java (Android)` `PyTorch` `TensorFlow` `JavaScript`
 
 **HuskyTracker Campus Events**
 React + Node.js + AWS EC2 + Docker + GitHub Actions CI/CD with real-time RSVP, notifications, and calendar sync
-`React` `TypeScript` `Node.js` `Express` `MongoDB` `Docker` `AWS EC2` `GitHub Actions`
 
 **TinyTaskers Task Marketplace**
 React + Redux + MongoDB + JWT with role-based dashboards for micro-job discovery
-`React` `TypeScript` `Redux` `Node.js` `Express.js` `MongoDB` `JWT`
 
 <div>
 
