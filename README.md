@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # Hi there 👋
 
@@ -10,13 +10,9 @@
 
 </div>
 
----
-
 ## About Me
 
 Software Engineer with an MS in Computer Software Engineering from Northeastern University. I build full stack systems and AI driven products, from LLM fine-tuning and RAG pipelines to production deployments on AWS. I enjoy building systems that go beyond prototypes and into real use.
-
----
 
 ## Tech Stack
 
@@ -61,8 +57,6 @@ Software Engineer with an MS in Computer Software Engineering from Northeastern 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
-
 ## Featured Projects
 
 ### GenAI & LLMs
@@ -79,8 +73,6 @@ Fine-tuned FLAN-T5 and LLaMA-2 on Spider benchmark with RAG pipeline; evaluated 
 LangChain + FAISS + flan-t5-base; grounded answers from PDFs with measurable hallucination reduction
 `Python` `LangChain` `FAISS` `HuggingFace` `flan-t5-base` `PyTorch`
 
----
-
 ### AI / ML
 
 **Denoising Diffusion Model (MNIST)**
@@ -95,9 +87,7 @@ Controlled comparison of 5 CNN configs; 74.30% accuracy; isolated BatchNorm, Dro
 81% accuracy loan classifier with empirical side-by-side RAG hallucination comparison
 `Python` `PyTorch` `FAISS` `SentenceTransformers` `DistilGPT-2` `Scikit-learn`
 
----
-
-### Full Stack (Production)
+### Full Stack
 
 **Farmer's Care AgriTech Platform**
 Web and Android platform serving 1,000+ rural farmers with AI crop prediction, CNN disease detection, and multilingual UI
@@ -111,9 +101,7 @@ React + Node.js + AWS EC2 + Docker + GitHub Actions CI/CD with real-time RSVP, n
 React + Redux + MongoDB + JWT with role-based dashboards for micro-job discovery
 `React` `TypeScript` `Redux` `Node.js` `Express.js` `MongoDB` `JWT`
 
----
-
-<div align="center">
+<div>
 
 *I build to learn. I learn to build better.*
 
