@@ -92,8 +92,10 @@ React + Node.js + AWS EC2 + Docker + GitHub Actions CI/CD with real-time RSVP, n
 **TinyTaskers Task Marketplace**
 React + Redux + MongoDB + JWT with role-based dashboards for micro-job discovery
 
+---
+
 <div>
----
+
 *I build to learn. I learn to build better!*
----
+
 </div>
