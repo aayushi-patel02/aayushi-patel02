@@ -33,9 +33,6 @@ Software Engineer with an MS in Computer Software Engineering from Northeastern 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-1D9E75?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-412402?style=flat-square&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-3C3489?style=flat-square&logoColor=white)
 
 **Full Stack & Backend**
 
