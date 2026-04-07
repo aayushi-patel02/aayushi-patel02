@@ -5,7 +5,7 @@
 **Software Engineer · Full Stack · GenAI/LLMs · AI/ML**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aayushi.me-534AB7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aayushi.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aayushi--patel--0208-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayushi-patel-0208)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aayushi--me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayushi-me)
 [![Email](https://img.shields.io/badge/Email-patelaayushi1425@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelaayushi1425@gmail.com)
 
 </div>
