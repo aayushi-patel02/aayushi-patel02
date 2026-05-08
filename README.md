@@ -58,13 +58,13 @@ Software Engineer with an MS in Computer Software Engineering from Northeastern 
 
 ### GenAI & LLMs
 
-**Agentic AI System for Distributed NL-to-SQL**
+**[Agentic AI System for Distributed NL-to-SQL](https://github.com/aayushi-me/agentic-ai-nl-to-sql)**
 Two-agent gRPC system with FAISS schema retrieval and swappable LLM backends (OpenAI / Vertex AI)
 
-**Text-to-SQL with Fine-Tuned LLMs**
+**[Text-to-SQL with Fine-Tuned LLMs](https://github.com/aayushi-me/text-to-sql-fine-tuned-llms)**
 Fine-tuned FLAN-T5 and LLaMA-2 on Spider benchmark with RAG pipeline; evaluated with Exact Match and BLEU
 
-**RAG Document QA Pipeline**
+**[RAG Document QA Pipeline](https://github.com/aayushi-me/rag-document-qa-pipeline-langchain)**
 LangChain + FAISS + flan-t5-base; grounded answers from PDFs with measurable hallucination reduction
 
 ### AI / ML
@@ -72,10 +72,10 @@ LangChain + FAISS + flan-t5-base; grounded answers from PDFs with measurable hal
 **Denoising Diffusion Model (MNIST)**
 Full DDPM from scratch with U-Net, 1000-step noise scheduler, conditional and unconditional generation
 
-**CNN Architecture Ablation Study (CIFAR-10)**
-Controlled comparison of 5 CNN configs; 74.30% accuracy; isolated BatchNorm, Dropout, and depth effects
+**[GAN Image Generation on CIFAR-10](https://github.com/aayushi-me/gan-cifar10-image-generation)**
+Deep Convolutional GAN trained on CIFAR-10 automobiles for 50,000 epochs with latent space interpolation
 
-**Neural Network Classifier + RAG Hallucination Study**
+**[Neural Network Classifier + RAG Hallucination Study](https://github.com/aayushi-me/neural-network-rag-hallucination-study)**
 81% accuracy loan classifier with empirical side-by-side RAG hallucination comparison
 
 ### Full Stack
@@ -83,10 +83,10 @@ Controlled comparison of 5 CNN configs; 74.30% accuracy; isolated BatchNorm, Dro
 **Farmer's Care AgriTech Platform**
 Web and Android platform serving 1,000+ rural farmers with AI crop prediction, CNN disease detection, and multilingual UI
 
-**HuskyTracker Campus Events**
+**[HuskyTracker Campus Events](https://github.com/aayushi-me/huskytracker)**
 React + Node.js + AWS EC2 + Docker + GitHub Actions CI/CD with real-time RSVP, notifications, and calendar sync
 
-**TinyTaskers Task Marketplace**
+**[TinyTaskers Task Marketplace](https://github.com/aayushi-me/tinytaskers)**
 React + Redux + MongoDB + JWT with role-based dashboards for micro-job discovery
 
 ---
