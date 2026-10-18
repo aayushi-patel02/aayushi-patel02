@@ -12,9 +12,11 @@
 
 ## About Me
 
-Software engineer with an MS in Computer Software Engineering from Northeastern University. I build full-stack products with AI at the core. I care most about what happens when things go wrong: a model provider goes down, the output comes back malformed or a training run stops halfway.
+I am an AI-focused full-stack software engineer building with Python, Java, React and TypeScript. I recently finished my Master's in Computer Software Engineering at Northeastern University.
 
-My latest project is **Charla**, a language tutor with a live demo, 4 languages and 257 tests.
+Most of my work combines full-stack development with AI. I like building both as one product rather than separate pieces.
+
+I am looking for AI/ML Engineer and Software Engineer roles and I am open to relocating anywhere in the US.
 
 ## Tech Stack
 
