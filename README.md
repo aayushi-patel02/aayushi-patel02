@@ -12,7 +12,9 @@
 
 ## About Me
 
-Software Engineer with an MS in Computer Software Engineering from Northeastern University. I build full stack systems and AI driven products, from LLM fine-tuning and RAG pipelines to production deployments on AWS. I enjoy building systems that go beyond prototypes and into real use.
+Software engineer with an MS in Computer Software Engineering from Northeastern University. I build full-stack products with AI at the core. I care most about what happens when things go wrong: a model provider goes down, the output comes back malformed or a training run stops halfway.
+
+My latest project is **Charla**, a language tutor with a live demo, 4 languages and 257 tests.
 
 ## Tech Stack
 
@@ -56,38 +58,34 @@ Software Engineer with an MS in Computer Software Engineering from Northeastern 
 
 ## Featured Projects
 
-### GenAI & LLMs
+### AI Products
 
-**[Agentic AI System for Distributed NL-to-SQL](https://github.com/aayushi-me/agentic-ai-nl-to-sql)**
-Two-agent gRPC system with FAISS schema retrieval and swappable LLM backends (OpenAI / Vertex AI)
+**[Charla: Conversational Language Tutor](https://github.com/aayushi-patel02/charla-language-learning-app)** · [Live Demo](https://charla-learn.vercel.app)
+Spaced repetition (SM-2) picks what you practice and an LLM builds the conversation around it. Spanish, French, German and Hindi. Four LLM providers behind one call site, which absorbed three provider failures without a refactor. 257 tests with zero network calls. Django REST, React, PostgreSQL.
 
-**[Text-to-SQL with Fine-Tuned LLMs](https://github.com/aayushi-me/text-to-sql-fine-tuned-llms)**
-Fine-tuned FLAN-T5 and LLaMA-2 on Spider benchmark with RAG pipeline; evaluated with Exact Match and BLEU
+**[Agentic AI System for Distributed NL-to-SQL](https://github.com/aayushi-patel02/agentic-ai-nl-to-sql)**
+Two services talking over gRPC with Protocol Buffer contracts. One reads the question, the other writes the SQL. FAISS retrieves the real schema first so the model stops inventing table names. OpenAI and Vertex AI behind one interface.
 
-**[RAG Document QA Pipeline](https://github.com/aayushi-me/rag-document-qa-pipeline-langchain)**
-LangChain + FAISS + flan-t5-base; grounded answers from PDFs with measurable hallucination reduction
+### ML Systems
 
-### AI / ML
+**[Text-to-SQL with Fine-Tuned LLMs](https://github.com/aayushi-patel02/text-to-sql-fine-tuned-llms)**
+Fine-tuned FLAN-T5 and LoRA-adapted LLaMA-2 on the Spider benchmark and compared both with prompt-only baselines on Exact Match and BLEU.
 
-**Denoising Diffusion Model (MNIST)**
-Full DDPM from scratch with U-Net, 1000-step noise scheduler, conditional and unconditional generation
-
-**[GAN Image Generation on CIFAR-10](https://github.com/aayushi-me/gan-cifar10-image-generation)**
-Deep Convolutional GAN trained on CIFAR-10 automobiles for 50,000 epochs with latent space interpolation
-
-**[Neural Network Classifier + RAG Hallucination Study](https://github.com/aayushi-me/neural-network-rag-hallucination-study)**
-81% accuracy loan classifier with empirical side-by-side RAG hallucination comparison
+**[Denoising Diffusion Model from Scratch](https://github.com/aayushi-patel02/denoising-diffusion-mnist)**
+DDPM built without diffusion libraries. U-Net denoiser with skip connections, 1000-step noise scheduler and both conditional and unconditional digit generation on MNIST.
 
 ### Full Stack
 
-**Farmer's Care AgriTech Platform**
-Web and Android platform serving 1,000+ rural farmers with AI crop prediction, CNN disease detection, and multilingual UI
+**[HuskyTracker: Campus Event Platform](https://github.com/aayushi-patel02/huskytracker)**
+Event discovery and RSVP for Northeastern students, built in a 5-person team. Handles waitlists so two people can never claim the same seat. Docker, Nginx and GitHub Actions on AWS EC2.
 
-**[HuskyTracker Campus Events](https://github.com/aayushi-me/huskytracker)**
-React + Node.js + AWS EC2 + Docker + GitHub Actions CI/CD with real-time RSVP, notifications, and calendar sync
+**Farmer's Care: AgriTech Platform**
+Web portal and Android app for 1,000+ farmers on one shared backend. CNN crop disease detection from a photo. English and Gujarati.
 
-**[TinyTaskers Task Marketplace](https://github.com/aayushi-me/tinytaskers)**
-React + Redux + MongoDB + JWT with role-based dashboards for micro-job discovery
+**[TinyTaskers: Task Marketplace](https://github.com/aayushi-patel02/tinytaskers)**
+Post and find micro-jobs with role-based dashboards. React, TypeScript, Redux, MongoDB.
+
+**More on GitHub:** [RAG Document QA](https://github.com/aayushi-patel02/rag-document-qa-pipeline-langchain) · [GAN on CIFAR-10](https://github.com/aayushi-patel02/gan-cifar10-image-generation) · [Neural Network + RAG Hallucination Study](https://github.com/aayushi-patel02/neural-network-rag-hallucination-study)
 
 ---
 
